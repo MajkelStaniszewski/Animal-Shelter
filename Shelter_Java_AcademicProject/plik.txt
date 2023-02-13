@@ -1,0 +1,15 @@
+0 Ptak Kakadu 4 Wezuwiusz false true M false 1
+1 Ptak Golab 1 Sali true false K false 2
+2 Ptak Mewa 6 Postrach false false K true 3
+3 Pies Bulterier 8 Pompa true true M false 4
+4 Kot Perski 8 Pompa false false M true 5
+5 Pies Jack 2 Pieta true false K true 1
+6 Ptak Kakadu 8 Pieta true false K true 2
+7 Kot Burmski 4 Pudzian false true M false 1
+8 Kot Coon 4 Beny false true M false 2
+9 Kot Burmski 5 Sali false true K false 3
+10 Ptak Kanarek 5 Lokiec true true M true 5
+11 Ptak Kanarek 9 Pieta true true M false 5
+12 Ptak Mewa 2 Sztanga false false M false 4
+13 Ptak Kanarek 7 Postrach true true K true 2
+14 Pies Bulterier 7 Sztanga true true K true 5

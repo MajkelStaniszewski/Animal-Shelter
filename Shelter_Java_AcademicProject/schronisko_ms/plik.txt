@@ -1,0 +1,15 @@
+0 Ptak Kakadu 5 Pudzian false false M false 3
+1 Kot Coon 1 Lokiec false false M true 4
+2 Pies Wyzel 6 Hamurabi false false K false 3
+3 Kot Byrtyjski 5 Sztanga false true K true 2
+4 Pies Wyzel 4 Beny true false M true 4
+5 Kot Korat 8 Masa false false K false 3
+6 Pies Jack 4 Szwajceneger true true K false 5
+7 Kot Mieszaniec 5 Wezuwiusz false false K false 1
+8 Pies Wyzel 4 Pieta true false M false 5
+9 Kot Byrtyjski 5 Sali false true K true 4
+10 Kot Coon 7 Alex true true K false 1
+11 Pies Cane 7 Sali true false K true 1
+12 Ptak Kawka 5 Beny false true M true 1
+13 Pies Cane 5 Pompa false true M false 4
+14 Ptak Golab 8 Beny false false M true 4
